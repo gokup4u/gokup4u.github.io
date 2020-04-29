@@ -8,6 +8,8 @@ h1 {
     line-height: 2;
     letter-spacing: 1px;
   }
+  p{transform: scale(1.2);
+  }
 html {
     background-color: rgb(130, 140, 158);
   }
